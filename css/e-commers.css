@@ -1,0 +1,24 @@
+footer {
+    margin-top: 20px;
+    padding-top: 50px;
+}
+
+footer {
+    background: #e71968;
+}
+
+h3,h4 {
+    margin-top: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.footer-menu {
+    list-style: none;
+}
+
+.footer-menu-link {
+    display: block;
+}
